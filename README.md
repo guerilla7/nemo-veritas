@@ -1,5 +1,7 @@
 # **NeMo-Veritas: Chain-of-Verification (CoVe) & NeMo Guardrails Library**
 
+![ron_nemo_veritas](https://github.com/user-attachments/assets/c65852c5-757d-4a2a-a283-7809474d63c5)
+
 This open-source Python application demonstrates an interactive way to apply various NVIDIA NeMo Guardrails to an LLM. It features a custom implementation of the Chain-of-Verification (CoVe) technique and allows the user to dynamically select and activate a suite of other built-in guardrails at runtime.
 
 This project is intended for Security Engineers, LLM Security Researchers, and developers looking to build more secure and reliable AI applications.
