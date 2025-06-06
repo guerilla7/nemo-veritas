@@ -57,9 +57,8 @@ This project is intended for Security Engineers, LLM Security Researchers, and d
 
 Once everything is set up, run the application:
 
-python app.py
-
-You will first be prompted to select the guardrails you want to activate. After that, you can begin your conversation with the guarded LLM.
+1. python app.py
+2. You will first be prompted to select the guardrails you want to activate. After that, you can begin your conversation with the guarded LLM.
 
 ## **Future Improvements**
 
