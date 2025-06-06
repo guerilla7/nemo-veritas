@@ -17,8 +17,6 @@ This project is intended for Security Engineers, LLM Security Researchers, and d
 
 ## **How it Works**
 
-The application has been re-architected to be highly dynamic.
-
 1. When you run app.py, it presents a menu of available guardrails defined in the GUARDRAILS\_LIBRARY dictionary.  
 2. You select one or more guardrails to activate.  
 3. The script loads a base config.yml file.  
